@@ -6,7 +6,7 @@ UI Clone - Discord
 <p align="center">Deployed <a href="">here</a>.</p>
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/Felipe1496/UI-discord-clone/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-discord?color=%237159c1&logoColor=%237159c1&style=flat" alt="Contributors">
   </a>
   <a href="https://opensource.org/licenses/MIT">
